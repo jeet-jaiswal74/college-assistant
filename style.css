@@ -1,0 +1,50 @@
+boyd {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f1f5f9;
+    color: #1e293b;
+}
+
+header {
+    background-color: #1d4ed8;
+    color: white;
+    padding: 24px;
+    text-align: centre;
+}
+
+main {
+    padding: 24px;
+}
+
+.features {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    
+}
+
+.features-cards{
+    display: flex;
+    gap: 30px; 
+    flex-wrap: wrap;                                                      
+}
+.card {
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 12px;
+    
+    width: 300px;
+    box-sizing: border-box;
+    
+}
+
+.card1 {
+    flex-grow: 1;
+}
+
+.card{
+    flex-grow: 1;
+}
+.card{
+    flex-grow: 2;
+}
